@@ -34,8 +34,8 @@ An interactive, high-fidelity web application built with Streamlit and Plotly de
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/astrid-astrophysics-lab.git](https://github.com/YOUR_USERNAME/astrid-astrophysics-lab.git)
-   cd astrid-astrophysics-lab
+   git clone [https://github.com/jordannega/ASTRRID-LAB.git](https://github.com/jordannega/ASTRRID-LAB.git)
+   cd ASTRIR-LAB
 
 2. Install the necessary calculation and plotting dependencies:
 
